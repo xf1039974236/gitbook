@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [testpage1](README.md)
+* [testpage2](untitled-1.md)
+* [testpage3](untitled.md)
 
