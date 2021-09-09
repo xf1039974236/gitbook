@@ -6,6 +6,5 @@
 
 ## grop1
 
-* [Untitled](grop1/untitled/README.md)
-  * [grop-page1](grop1/untitled/grop-page1.md)
+* [grop-page1](grop1/grop-page1.md)
 
